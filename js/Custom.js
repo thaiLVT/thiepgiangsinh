@@ -6,6 +6,7 @@ var sound = new Howl({
 function loading() {
     $('body').css('height', $(window).height());
     $('#loading').css('visibility', 'visible');
+   
     setTimeout('loadingVisible()', 1500);
 }
 
@@ -15,7 +16,7 @@ function loadingVisible() {
         'overflow': 'visible',
         'height': '100%'
     });
-    sound.play();
+    
 }
 
 /* Scroll Title Begin */
@@ -177,6 +178,7 @@ $(document).ready(function() {
 
     // Bắt sự kiện nhấn tuần lộc
     $("#reindeer").click(function() {
+        sound.play();
         // Chưa mở thư
         if (bShowLetter == false)
         {
