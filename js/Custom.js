@@ -198,7 +198,7 @@ $(document).ready(function() {
                         strings: [
                         " Merry Christmas ",
                         "Thay cho hàng triệu câu từ, xin gửi tới người bạn gái của tôi lời chúc giáng sinh ý nghĩa và thân thương nhất. Mong mọi điều an lành và may mắn sẽ tìm đến với em!",
-                        "Đây là lần đầu tiên có một mua noel bên em và anh mong sau này hàng năm đến ngày này chúng ta vẫn được ở bên nhau cùng đón giáng em sinh nhé...",
+                        "Đây là lần đầu tiên có một mùa noel bên em và anh mong sau này hàng năm đến ngày này chúng ta vẫn được ở bên nhau cùng đón giáng sinh em nhé...",
                         " Yêu Em, BaeH của anh",
                         ],
                         typeSpeed: 50,
